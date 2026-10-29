@@ -1,6 +1,4 @@
-HTML from 10k Coders
-
-# 10kCoders HTML Practice Tasks
+# 10kCoders HTML Practice
 
 ## About the Project
 This repository contains HTML practice tasks completed as part of the 10kCoders training program. It includes different web pages and exercises created to learn and practice HTML concepts.
